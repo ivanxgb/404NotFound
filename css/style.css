@@ -55,6 +55,9 @@ main {
 }
 
 .main-title {
+    justify-self: flex-start;
+    align-self: flex-start;
+    max-width: 350px;
     font-weight: bold;
     font-size: 4rem;
     color: var(--gray1);
@@ -62,6 +65,7 @@ main {
 }
 
 .main-paragraph {
+    max-width: 350px;
     font-size: 1.5rem;
     color: var(--gray2);
 }
