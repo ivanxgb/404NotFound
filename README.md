@@ -51,6 +51,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://ivaangbx.tech)
-- GitHub [@your-username](https://github.com/IvaanGBx)
-- Twitter [@your-twitter](https://twitter.com/IvaanGBx)
+- Website [ivaangbx.tech](https://ivaangbx.tech)
+- GitHub [@IvaanGBx](https://github.com/IvaanGBx)
+- Twitter [@IvaanGBx](https://twitter.com/IvaanGBx)
