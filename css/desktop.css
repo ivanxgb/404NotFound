@@ -1,0 +1,13 @@
+.main {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-title {
+    max-width: 400px;
+}
+
+.main-paragraph {
+    max-width: 300px;
+}
